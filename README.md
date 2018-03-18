@@ -1,4 +1,4 @@
-#GMEL (Gpu-based MEtaheuristics Library)
+# GMEL (Gpu-based MEtaheuristics Library)
 
 ## Description
 
